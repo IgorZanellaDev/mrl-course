@@ -1,0 +1,15 @@
+{
+  "cats": "{{count}} chat",
+  "cats_other": "{{count}} chats",
+  "dogs_few": "{{count}} 3e chien",
+  "dogs_one": "{{count}} 1er chien",
+  "dogs_other": "{{count}} le chien",
+  "dogs_two": "{{count}} et chien",
+  "helloName": "Bonjour {{name}} {{name}} !",
+  "included": "{{count}} inclus",
+  "test": {
+    "languageTest": "Testez l'anglais"
+  },
+  "thereAreSomeCats": "Il y a $t (cats, {« count » : {{count}}})",
+  "thereAreSomeCats_other": "Il y a $t (chats, {« count » : {{count}}})"
+}

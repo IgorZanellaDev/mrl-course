@@ -1,0 +1,15 @@
+{
+  "test": {
+    "languageTest": "Test English"
+  },
+  "helloName": "Hello {{name}} {{surname}}!",
+  "dogs_one": "{{count}}st dog",
+  "dogs_two": "{{count}}nd dog",
+  "dogs_few": "{{count}}rd dog",
+  "dogs_other": "{{count}}th dog",
+  "included": "{{count}} included",
+  "cats": "{{count}} cat",
+  "cats_other": "{{count}} cats",
+  "thereAreSomeCats": "There is $t(cats, { \"count\": {{count}} })",
+  "thereAreSomeCats_other": "There are $t(cats, { \"count\": {{count}} })"
+}

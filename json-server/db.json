@@ -1,0 +1,144 @@
+{
+  "todos": [
+    {
+      "title": "Buy groceries",
+      "id": 0
+    },
+    {
+      "title": "Clean the house",
+      "id": 1
+    },
+    {
+      "title": "Pay bills",
+      "id": 2
+    },
+    {
+      "title": "Walk the dog",
+      "id": 3
+    },
+    {
+      "title": "Do laundry",
+      "id": 4
+    },
+    {
+      "title": "Call the doctor",
+      "id": 5
+    },
+    {
+      "title": "Send emails",
+      "id": 6
+    },
+    {
+      "title": "Finish report",
+      "id": 7
+    },
+    {
+      "title": "Schedule meeting",
+      "id": 8
+    },
+    {
+      "title": "Pick up dry cleaning",
+      "id": 9
+    },
+    {
+      "title": "Organize closet",
+      "id": 10
+    },
+    {
+      "title": "Buy birthday gift",
+      "id": 11
+    },
+    {
+      "title": "Renew library books",
+      "id": 12
+    },
+    {
+      "title": "Take out the trash",
+      "id": 13
+    },
+    {
+      "title": "Read book",
+      "id": 14
+    },
+    {
+      "title": "Go for a run",
+      "id": 15
+    },
+    {
+      "title": "Make dinner reservations",
+      "id": 16
+    },
+    {
+      "title": "Call mom",
+      "id": 17
+    },
+    {
+      "title": "Finish painting",
+      "id": 18
+    },
+    {
+      "title": "Pay parking ticket",
+      "id": 19
+    },
+    {
+      "title": "Water plants",
+      "id": 20
+    },
+    {
+      "title": "File taxes",
+      "id": 21
+    },
+    {
+      "title": "Start workout plan",
+      "id": 22
+    },
+    {
+      "title": "Schedule haircut",
+      "id": 23
+    },
+    {
+      "title": "Buy new shoes",
+      "id": 24
+    },
+    {
+      "title": "Update resume",
+      "id": 25
+    },
+    {
+      "title": "Clean the car",
+      "id": 26
+    },
+    {
+      "title": "Take kids to soccer practice",
+      "id": 27
+    },
+    {
+      "title": "Send thank you notes",
+      "id": 28
+    },
+    {
+      "title": "Attend networking event",
+      "id": 29
+    },
+    {
+      "title": "Book flight for vacation",
+      "id": 30
+    },
+    {
+      "title": "Meet with financial advisor",
+      "id": 31
+    },
+    {
+      "title": "Buy new computer",
+      "id": 32
+    },
+    {
+      "title": "Get oil change",
+      "id": 33
+    },
+    {
+      "title": "Donate clothes to charity",
+      "id": 34
+    }
+  ]
+}

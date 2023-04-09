@@ -1,0 +1,15 @@
+{
+  "cats": "{{count}} gato",
+  "cats_other": "{{count}} gatos",
+  "dogs_few": "{{count}} perro rojo",
+  "dogs_one": "{{count}} primer perro",
+  "dogs_other": "{{count}} el perro",
+  "dogs_two": "{{count}} y un perro",
+  "helloName": "Hola {{nombre}} ¡{{apellido}}!",
+  "included": "{{count}} incluido",
+  "test": {
+    "languageTest": "Prueba de espanol"
+  },
+  "thereAreSomeCats": "Hay $t (cats, {«count»: {{count}}})",
+  "thereAreSomeCats_other": "Hay $t (cats, {«count»: {{count}}})"
+}
